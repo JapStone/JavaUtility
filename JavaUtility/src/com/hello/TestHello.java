@@ -1,9 +1,10 @@
 package com.hello;
 
-public class Hello {
+public class TestHello {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
+		
+		assert true;
 	}
 
 }
